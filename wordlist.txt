@@ -1,5 +1,3 @@
-Google Dorks Ultimate Collection For Hackers
-
 Google Dorks For SQL Injection Start:
 
 inurl:index.php?id=
