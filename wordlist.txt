@@ -1,17 +1,7 @@
 Google Dorks Ultimate Collection For Hackers
 
+Google Dorks For SQL Injection Start:
 
-What Is Google Dorks?
- It is basically an advanced google search!
-
-I have included four types of google dorks in this collection: 
-Google dorks for SQL injection, 
-Google dorks for Local File Inclusion,
-Google dorks For open CCTV cams 
-And Google dorks for sensitive information.
-
-Copy and paste the below google dorks on the search engine and have fun!
-Google Dorks For SQL Injection:
 inurl:index.php?id=
 inurl:trainers.php?id=
 inurl:buy.php?category=
@@ -299,7 +289,10 @@ inurl:WCP_USER
 inurl:webmail./index.pl "Interface"
 inurl:webvpn.html "login" "Please enter your"
 
-CCTV Camera online - Google Dorks:
+Google Dorks For SQL Injection End:
+
+CCTV Camera online - Google Dorks Start:
+
 inurl:view/view.shtml
 inurl:/view.shtml
 intitle:”Live View / - AXIS” | inurl:view/view.shtml^
@@ -340,8 +333,9 @@ intitle:”Toshiba Network Camera” user login
 allinurl:control/multiview
 intitle:”supervisioncam protocol”
 
+CCTV Camera online - Google Dorks End:
 
-Local File Inclusion- Google Dorks:
+Local File Inclusion- Google Dorks Start:
 
 inurl:/view/lang/index.php?page=?page=
 inurl:/shared/help.php?page=
@@ -409,7 +403,8 @@ inurl:url=
 inurl:user=
 inurl:ajax.php?page=
 
-To Gather Sensitive Data - Google Dorks:
+To Gather Sensitive Data - Google Dorks Start:
+
 filetype:bak createobject sa
 filetype:bak inurl:"htaccess|passwd|shadow|htusers"
 filetype:cfg "mrtg"target
@@ -1398,3 +1393,5 @@ XAMPP “inurl:xampp/index”
 allintitle:*.php?filename=*
 allintitle:*.php?page=*
 allintitle:*.php?logon=*
+
+To Gather Sensitive Data - Google Dorks End:
