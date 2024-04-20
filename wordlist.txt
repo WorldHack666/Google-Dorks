@@ -1,5 +1,4 @@
 Google Dorks For SQL Injection Start:
-
 inurl:index.php?id=
 inurl:trainers.php?id=
 inurl:buy.php?category=
